@@ -1,5 +1,5 @@
 # Multi-Functional-Reverse-Shell
-A multiple reverse shell sessions/clients manager via terminal.A simple reverse shell written in python 3.7 just for fun. Actually it supports Windows and Linux OS and integrates some basic features like keylogging , download , upload etc.
+A multiple reverse shell sessions/clients manager via terminal. A reverse shell written in python 3.7 just for fun. Actually it supports Windows and Linux OS and integrates some basic features like keylogging , download , upload etc.
 
 ## Functions and characteristics:
 
